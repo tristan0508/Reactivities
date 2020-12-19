@@ -1,7 +1,3 @@
-C:\Users\Tristan\workspace\Reactivities\Application\bin\Debug\net5.0\Application.deps.json
-C:\Users\Tristan\workspace\Reactivities\Application\bin\Debug\net5.0\Application.dll
-C:\Users\Tristan\workspace\Reactivities\Application\bin\Debug\net5.0\ref\Application.dll
-C:\Users\Tristan\workspace\Reactivities\Application\bin\Debug\net5.0\Application.pdb
 C:\Users\Tristan\workspace\Reactivities\Application\bin\Debug\net5.0\Domain.dll
 C:\Users\Tristan\workspace\Reactivities\Application\bin\Debug\net5.0\Persistence.dll
 C:\Users\Tristan\workspace\Reactivities\Application\bin\Debug\net5.0\Domain.pdb
@@ -15,6 +11,10 @@ C:\Users\Tristan\workspace\Reactivities\Application\obj\Debug\net5.0\Application
 C:\Users\Tristan\workspace\Reactivities\Application\obj\Debug\net5.0\Application.dll
 C:\Users\Tristan\workspace\Reactivities\Application\obj\Debug\net5.0\ref\Application.dll
 C:\Users\Tristan\workspace\Reactivities\Application\obj\Debug\net5.0\Application.pdb
+C:\Users\Tristan\workspace\Reactivities\Application\bin\Debug\net5.0\Application.deps.json
 C:\Users\Tristan\workspace\Reactivities\Application\bin\Debug\net5.0\Application.runtimeconfig.json
 C:\Users\Tristan\workspace\Reactivities\Application\bin\Debug\net5.0\Application.runtimeconfig.dev.json
+C:\Users\Tristan\workspace\Reactivities\Application\bin\Debug\net5.0\Application.dll
+C:\Users\Tristan\workspace\Reactivities\Application\bin\Debug\net5.0\ref\Application.dll
+C:\Users\Tristan\workspace\Reactivities\Application\bin\Debug\net5.0\Application.pdb
 C:\Users\Tristan\workspace\Reactivities\Application\obj\Debug\net5.0\Application.genruntimeconfig.cache

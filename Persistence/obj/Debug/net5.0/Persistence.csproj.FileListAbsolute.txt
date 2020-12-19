@@ -1,4 +1,6 @@
 C:\Users\Tristan\workspace\Reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\Tristan\workspace\Reactivities\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+C:\Users\Tristan\workspace\Reactivities\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
 C:\Users\Tristan\workspace\Reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
 C:\Users\Tristan\workspace\Reactivities\Persistence\bin\Debug\net5.0\ref\Persistence.dll
 C:\Users\Tristan\workspace\Reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
@@ -13,6 +15,4 @@ C:\Users\Tristan\workspace\Reactivities\Persistence\obj\Debug\net5.0\Persistence
 C:\Users\Tristan\workspace\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
 C:\Users\Tristan\workspace\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
 C:\Users\Tristan\workspace\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
-C:\Users\Tristan\workspace\Reactivities\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
-C:\Users\Tristan\workspace\Reactivities\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
 C:\Users\Tristan\workspace\Reactivities\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
