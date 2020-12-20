@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import { Reactivities } from './App';
+import './app/layout/styles.css';
+import { Reactivities } from './app/layout/App';
 import 'semantic-ui-css/semantic.min.css';
 
 
